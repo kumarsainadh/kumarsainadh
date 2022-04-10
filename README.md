@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kumarsainadh
 - 👀 I’m interested in Data analytics and Data story telling
 - 🌱 I’m currently learning to get better at Data story telling in a much more efficient and grandeur way
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email: kumardonga27@gmail.com
 
 <!---
